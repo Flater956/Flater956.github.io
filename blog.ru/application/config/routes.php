@@ -40,7 +40,7 @@
             'controller'=>'main',
             'action'=>'post'
         ],
-        'main/index/[0-9+]|'=>[
+        'flater956.github.io'=>[
             'controller'=>'main',
             'action'=>'index'
         ],
